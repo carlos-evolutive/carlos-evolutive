@@ -22,10 +22,10 @@ Over the years, I’ve programmed in a diverse array of languages, from Basic to
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/carlos-evolutive?tab=repositories#gh-light-mode-only">
-<img height=259 src="https://github-readme-stats-o73q4u01u-carlos-evolutives-projects.vercel.app/api/top-langs/?username=carlos-evolutive&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Carlos' Language stats" />
+<img height=259 src="https://github-readme-stats-one-alpha-11.vercel.app/api/top-langs/?username=carlos-evolutive&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Carlos' Language stats" />
 </a>
 <a href="https://github.com/carlos-evolutive?tab=repositories#gh-light-mode-only">
-<img height=259 src="https://github-readme-stats-o73q4u01u-carlos-evolutives-projects.vercel.app/api?username=carlos-evolutive&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Carlos' Github stats" />
+<img height=259 src="https://github-readme-stats-one-alpha-11.vercel.app/api?username=carlos-evolutive&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Carlos' Github stats" />
 </a>
 </div>
 
