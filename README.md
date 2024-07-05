@@ -4,16 +4,16 @@
 <br/>
 
 <p>
-For more than 12 years, I have been passionately involved in iOS app development, where I have thrived developing Apps in Objective-C and Swift. 
+For more than 12 years, I have been passionately involved in iOS app development, where I have thrived developing Apps in Objective-C and Swift.
 </p>
 <p>
-Over the years, I’ve programmed in multiple languages throughout my life, from Basic to VHDL, as well as various scripting languages and web front-end and back-end technologies. My skills have continually evolved and adapted, though some things have faded from memory... 
+Over the years, I’ve programmed in multiple languages, from Basic to VHDL, as well as various scripting languages and web front-end and back-end technologies. My skills have continually evolved, though some things have faded from memory... 
 </p>
 
 - 🌱 I’m always blossoming, keep growing to reach new heights!
 - 👯 I’m looking to: collaborate on open source mainly in Swift.
-- 🤔 I’m looking for: learning more Odoo and Kubernetes, always be open to learn.
-- 💬 Ask me about: anything, if I respond or not to your question that's another issue.
+- 🤔 I’m looking for: always be open to learn.
+- 💬 Ask me about: always up for a chat.
 - ⚡ Fun fact: my programming journey began with "Basic for Kids" on an Amstrad computer.
 
 <br/>
